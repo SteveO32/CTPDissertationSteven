@@ -1,9 +1,0 @@
-Info:
-Team Lunatics Folder
- - Materials - Both mats and Physics materials in respective folders
- - Models - Only move here the models that only we use
- - Prefabs - Try to keep this folder clean, move unused stuff to deprecated
- - Deprecated - Any old version of Materials, scripts etc. that you want to keep but aren't used go Here.
- - Scenes - Again, try to keep it clean
- - Scripts - Look at the Coding standard, class names (script names) should be clear.
- - Textures - Only Textures that only we use

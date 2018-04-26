@@ -1,1 +1,0 @@
-Unfortunately for our integration structure, Unity requires the gizmos folder be in the root. Boo! -sam.m 08/02/2017

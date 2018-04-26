@@ -1,1 +1,0 @@
-Spline system authored by David Cope. Various elements are WIP!

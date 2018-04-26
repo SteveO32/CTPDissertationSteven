@@ -1,1 +1,0 @@
-Seagull model by Craig Tinney for Tweet Islands
