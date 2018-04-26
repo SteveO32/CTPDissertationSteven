@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c93498d1f5db3a4abfd0bb674730d34, type: 3}
+  m_Name: SwarmSpawnable
+  m_EditorClassIdentifier: 
+  objectPrefab: {fileID: 1436902121209608, guid: 25ce19a1373975549a8106e60ef72332,
+    type: 2}
+  objectMaxCount: 1
+  objectSpawnTime: 1
+  spawnHeightOffset: 0
+  randomHeight: 0
+  minHeight: 0
+  maxHeight: 0
+  randomRotation: 0
+  objRotX: 0
+  objRotY: 0
+  objRotZ: 0
+  checkLayers:
+    serializedVersion: 2
+    m_Bits: 16
+  avoidLayer:
+    serializedVersion: 2
+    m_Bits: 524288
+  spawnLayer: Water
+  offsetX: 0
+  offsetZ: 0
+  active: 1
+  objectID: 4
+  clearDistance: 150
+  enableRef: 0
+  cleanUp: 0

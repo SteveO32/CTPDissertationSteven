@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0409e727fa46f8e48ad964e9f1d43d17, type: 3}
+  m_Name: Pirate
+  m_EditorClassIdentifier: 
+  selected: 0
+  humanoidMesh: {fileID: 4300000, guid: e88f3d051335eea419d1f5bcf6667269, type: 3}
+  humanoidMaterial: {fileID: 2100000, guid: 560cc3d01fddf3843ad027b25ede8c4e, type: 2}
+  mainColor: {fileID: 2100000, guid: 4892fd3263bccf140915a7ee10d89b1b, type: 2}
+  secondaryColor: {fileID: 2100000, guid: 9beabcac19b1be54883217f2a1578825, type: 2}
+  accents: {fileID: 2100000, guid: ac8be55bf56320844905aec060c4ee37, type: 2}
+  playerColor: {r: 0.319907, g: 0.46910048, b: 0.71323526, a: 1}

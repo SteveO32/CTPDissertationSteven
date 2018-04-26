@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b6f8379b5bfe77b48a4ff87377c43e23
+timeCreated: 1519158033
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Timer: {instanceID: 0}
+  - FullHp: {fileID: 2800000, guid: 169f8a67597eb7d4bba6fd08be1349c3, type: 3}
+  - HalfHp: {fileID: 2800000, guid: cc167ebc5e5140d4fb6ff3fa43f7a142, type: 3}
+  - LowHp: {fileID: 2800000, guid: bad40628ddfd6554eaa8548cabd9df8b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c0654f75d7e6a144fac742f53a596bd5
+timeCreated: 1485274588
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cro-Magnum Condensed Shadow
+  fontNames:
+  - Cro-Magnum Condensed Shadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

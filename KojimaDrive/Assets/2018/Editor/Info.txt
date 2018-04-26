@@ -1,0 +1,3 @@
+Editor
+
+Please, let's try not to have 30 different editor folders

@@ -1,0 +1,3 @@
+Info:
+Shared Folder
+ - We can put in here Models, Textures and Materials shared across the project to not create multiple copies of the files.

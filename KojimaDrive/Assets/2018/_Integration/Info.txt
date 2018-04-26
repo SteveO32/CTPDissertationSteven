@@ -1,0 +1,4 @@
+Info:
+Integration Folder
+ - When Something is ready to be merged with other teams' work put it in here and link it up
+ - It would be nice if any commit changing this folder was Double checked by someone else usin GIT's system.

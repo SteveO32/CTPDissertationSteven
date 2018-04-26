@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0409e727fa46f8e48ad964e9f1d43d17, type: 3}
+  m_Name: ArcherGirl
+  m_EditorClassIdentifier: 
+  selected: 0
+  humanoidMesh: {fileID: 4300050, guid: e88f3d051335eea419d1f5bcf6667269, type: 3}
+  humanoidMaterial: {fileID: 2100000, guid: 6e468cdd8ccc68d44a1b156e79d13222, type: 2}
+  mainColor: {fileID: 2100000, guid: 3849dfc62777d2946b29ff351b77babd, type: 2}
+  secondaryColor: {fileID: 2100000, guid: 8644fd913a8b7644a9c68ad560220eb7, type: 2}
+  accents: {fileID: 2100000, guid: ed682b40aeac7f345b32cfd5e1fd512e, type: 2}
+  playerColor: {r: 0.25432524, g: 0.7205882, b: 0.27683452, a: 1}

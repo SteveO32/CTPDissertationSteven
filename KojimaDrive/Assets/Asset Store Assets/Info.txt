@@ -1,0 +1,4 @@
+Info:
+Asset Store Folder
+ - 2017 Group had assets like Rewired, Typogenic etc.
+ - 2018 Group might wat to add more assets and if we put them in this folder instead of being hidden away in the codebase it is clearer
